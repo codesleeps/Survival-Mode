@@ -1,0 +1,170 @@
+/* adjust & add classes as needed for each section */
+
+/* reset */
+* {
+	background-color: rgb(9, 9, 78);
+	color: white;
+	text-decoration: none;
+}
+/* adjust & add classes as needed for each section */
+
+body {
+	min-height: 100vh;
+	text-align: center;
+	padding: 100px;
+}
+
+.container {
+	background-color: #fff;
+	width: 60vw;
+	padding: 40px;
+	height: 40vh;
+	border-left: 5px solid #66ef0b;
+	margin: 0 auto;
+}
+
+.quote-text {
+	min-height: 35vh;
+	background-color: #fff;
+}
+article h1 {
+	font-size: 3rem;
+	margin: 0 auto;
+	padding: 1.3rem;
+	color: lime;
+}
+
+.container h1 {
+	font-size: 50px;
+	text-align: center;
+	background-color: #fff;
+	color: midnightblue;
+}
+
+.container p {
+	background-color: #fff;
+	text-transform: capitalize;
+	text-align: right;
+	font-style: italic;
+	font-size: 30px;
+	color: #66ef0b;
+}
+
+#btn {
+	/* margin-bottom: 20px; */
+	font-size: 25px;
+	padding: 10px 20px;
+	background-color: #66ef0b;
+	color: midnightblue;
+	border: 2px solid;
+}
+
+#btn:hover {
+	color: #66ef0b;
+	background-color: midnightblue;
+}
+
+/* adjust & add classes as needed for each section */
+/* .background {
+	font-size: 30px;
+	background-color: aqua;
+	text-align: center;
+}
+
+.simple {
+	padding: 40px;
+	background-color: yellow;
+	color: blue;
+	font-size: 40px;
+}
+.special {
+	background-color: lime;
+	color: rgb(8, 37, 152);
+	font-size: 40px;
+	width: 300px;
+	height: 300px;
+}
+
+.special-2 {
+	background-color: rgb(0, 229, 255);
+	color: rgb(187, 13, 245);
+	font-size: 40px;
+}
+
+.hide {
+	display: none;
+}
+
+.link {
+	background-color: red;
+	font-size: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+.font-size {
+	font-size: 40px;
+}
+
+.external {
+	background-color: red;
+}
+
+.org {
+	background-color: green;
+}
+
+.append {
+	background-color: lime;
+	font-size: 35px;
+}
+.prepend {
+	background-color: aqua;
+	color: yellow;
+}
+
+.change {
+	font-size: 40px;
+	color: lime;
+	background: purple;
+}  
+
+/* .banner {
+	font-size: 35px;
+	text-transform: uppercase;
+	color: #f15025;
+	margin: 25px 0 50px 0;
+}
+
+.message {
+	font-size: 40px;
+	text-align: left;
+	text-transform: capitalize;
+	color: #88ff38;
+	width: 75%;
+	height: 150px;
+	padding: 20px 20px;
+	margin: 20px auto 40px auto;
+	border: 3px dashed #66ef0b;
+}
+#text {
+	font-size: 30px;
+	padding: 40px 20px;
+	width: 75%;
+	margin: 0 auto;
+	display: block;
+	color: #88ff38;
+	border: 3px dashed #66ef0b;
+
+}
+
+.btn {
+	margin: 40px 10px;
+	padding: 10px 15px;
+	font-size: 25px;
+	color: #f15025;
+}
+
+.btn:hover {
+	color: #66ef0b;
+} */
