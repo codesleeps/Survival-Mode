@@ -12,10 +12,6 @@
 
 https://www.youtube.com/watch?v=1VZZlVIgJJM&t=6132s ✅
 
-### Quote Generator
-
-[App](https://codesleeps.github.io/Bootcamp-Survival-Mode/)
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#news-flash-)
 
