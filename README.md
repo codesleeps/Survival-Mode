@@ -3,6 +3,7 @@
 
 # ➤ Bootcamp-Survival-Mode 🪖
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#jquery-lessons---utilizing-various-functions--methods-)
 
